@@ -1,0 +1,7 @@
+
+
+
+Conocer La cantidad de cursosProgramados por ciclos de los ultimos cinco años, que cursos programados fueron los que tuvieron mas estudiantes y saber si la tarifa de ellos fue un factor decisivo para escoger el curso
+
+
+Identificar el promedio global de cada curso del año 2023 para conocer cuales son esos cursos con menor promedio de resultados de sus estudiantes y con esto la universidad generar estrategias en pro de la mejora de la calidad academica (Capacitaciones a docentes para mejorar la pedagogia, Crear espacios complementarios al curso, recursos virtuales de apoyo ETC) 
